@@ -1,4 +1,7 @@
 query RunInput {
+   buyerJourney {
+    step
+  }
   cart {
     deliveryGroups {
       deliveryAddress {
