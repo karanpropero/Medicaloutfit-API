@@ -1,0 +1,23 @@
+query RunInput {
+  cart {
+    deliveryGroups {
+      deliveryAddress {
+        countryCode
+        company
+        address1
+        address2
+        city
+        provinceCode
+        zip
+      }
+    }
+  }
+  localization {
+    language {
+      isoCode
+    }
+    country {
+      isoCode
+    }
+  }
+}

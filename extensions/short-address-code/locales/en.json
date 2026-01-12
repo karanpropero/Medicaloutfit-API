@@ -1,0 +1,17 @@
+{
+  "shortAddressRequired": "Short address code is required for Saudi Arabia",
+  "invalidCompanyFormat": "Company format is invalid for Saudi Arabia",
+  "bannerHeading": "Short Address Code Required",
+  "bannerDescription": "Based on new shipping regulations, please ensure you enter your National Address shortcode correctly to complete your order. This helps us deliver your shipment smoothly without delays.",
+  "errorHeading": "Invalid Short Address Code",
+  "nationalAddressCertificate": "National Address Certificate",
+  "errorMessage": "The short address code format is incorrect. Please enter a valid code.",
+  "noAddressFound": "No national address is associated with this shortcode. Please verify your code.",
+  "applyAddressError": "We could not apply this address. Please try again or enter it manually.",
+  "validationError": "Something went wrong while validating the shortcode. Please try again.",
+  "validationInProgress": "Validating your national address shortcode.",
+  "noAddressMatch":"Please verify you address.",
+  "validatingAddress":"Validating your National Address shortcode.",
+  "shortcodeNotInAddress":"No national address is associated with this shortcode. Please verify your address."
+
+}
